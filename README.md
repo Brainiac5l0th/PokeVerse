@@ -1,4 +1,4 @@
-### This is a Fully **responsive** website. This website now only shows all the pokemon with images. 
+### This Fully **responsive** website now only shows all the pokemon with images. 
 
 ### **Now working on each pokemon site and making it a PWA.**
 
